@@ -1,9 +1,13 @@
-
-
-.onlydiv{
+.onlydiv
+{
+    margin-left: 5cm;
+    margin-right: 5cm;
     background-color: antiquewhite;
+    margin-bottom: 3cm;   
 }
-
+p{
+    align-items: center;
+}
 h1
 {
     Color:red;
@@ -11,10 +15,8 @@ h1
 }
 table
 {
-    background-color: aqua;
-    color:black;
-    
-
+    background-color: rgb(164, 182, 125);
+    color:brown;
 }
 
 
