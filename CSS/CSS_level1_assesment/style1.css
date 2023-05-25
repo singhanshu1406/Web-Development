@@ -1,0 +1,43 @@
+body
+{
+    background-color: rgb(119, 173, 173);
+}
+h1
+{
+    border-sizing: border-box;
+    border-width: 5mm;
+    -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  
+  border: solid #969696;
+  margin: 10px;
+}
+.c1
+{
+    background-color: bisque;
+}
+.c2
+{
+    color: #673673;
+}
+.last
+{
+    background-color: blue;
+    border-sizing:border-box;
+    border-width: 1mm;
+    border-color: yellow;
+    border-style: dashed;
+    -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+}
+input
+{
+    border:rgb(11, 200, 3)
+}
+a{
+    color:red;
+}
+.last2
+{
+    background-color: yellow;
+}
