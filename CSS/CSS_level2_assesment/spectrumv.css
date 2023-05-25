@@ -1,0 +1,59 @@
+h1
+{
+    font-family: 'Pangolin', cursive;
+    text-align: center;
+
+}
+body
+{
+    align-items: center;
+    align-content: center;
+    align-content: center;
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.table
+{
+    border-width: 4mm;
+    column-width: 200px;
+    row-gap: 10px;
+    height: 600px;
+    table-layout: fixed;
+}
+
+#id1
+{
+    background-color: #58EFEC;
+    width: 200px;
+    height:300px;
+}
+
+#id2
+{
+    background-color: #7CCAD5;
+    width: 200px;
+    height:300px;
+}
+
+#id3
+{
+    background-color: #A0A6BE;
+    width: 200px;
+    height:300px;
+}
+
+#id4
+{
+    background-color: #C481A7;
+    width: 200px;
+    height:300px;
+}
+
+#id5
+{
+    background-color: #E85C90;
+    width: 200px;
+    height:300px;
+}

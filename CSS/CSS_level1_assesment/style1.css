@@ -8,13 +8,15 @@ h1
     border-width: 5mm;
     -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
-  
+  text-align:center;
   border: solid #969696;
   margin: 10px;
 }
 .c1
 {
     background-color: bisque;
+    font-family: 'Barlow', sans-serif, italic;
+    font:200;
 }
 .c2
 {
